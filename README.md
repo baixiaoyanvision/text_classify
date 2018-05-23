@@ -1,7 +1,7 @@
 # text_classify
 以复旦中文文本分类语料库为样本，用python实现的文本分类算法
 
-给出了训练集和测试集，以及停用词表hlt_stop_words.txt
+由于训练集和测试集太大，所以给出的是训练集和测试集的下载地址，以及停用词表hlt_stop_words.txt
 
 Python版本为2.7 
 
